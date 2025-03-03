@@ -1,0 +1,22 @@
+{
+  "UpdateTime": 30,
+  "ServerInformation": [
+    {
+      "Name": "After The Fall Bot",
+      "Address": "193.25.252.30:2903",
+      "Token": "MTM0NjEwMTQ3Nzg2NDc3MTU4NA.GLwHuw.K46MLECu890uTJvAh6jbV-GZF6vYM88lrMC-9s",
+      "Status": 0,
+      "UseNameAsLabel": false,
+      "ProviderType": 0,
+      "ChannelID": null,
+      "StatusFormat": null,
+      "SunriseHour": null,
+      "SunsetHour": null,
+      "RconServiceName": null
+    }
+  ],
+  "ApplicationTokens": {
+    "SteamAPIKey": "1F904405A481BF00024DA24CE48F0133",
+    "BattleMetricsKey": "Here"
+  }
+}
